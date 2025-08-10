@@ -1,7 +1,7 @@
 {
   "servers": {
-    "mmmcp": {
-      "url": "http://0.0.0.0:8000/mcp/",
+    "blurtbox-message": {
+      "url": "https://blurt-box-mcp.onrender.com/mcp/",
       "type": "http"
     }
   },

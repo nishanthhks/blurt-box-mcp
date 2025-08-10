@@ -6,7 +6,7 @@ A custom MCP (Model Context Protocol) server built with FastMCP to send messages
 
 ```json
 "servers": {
-  "confluence": {
+  "blurtbox-message": {
     "url": "https://blurt-box-mcp.onrender.com/mcp/",
     "type": "http"
   }
